@@ -1,5 +1,5 @@
 # duopoly_cyber_insurance
-Simulation files for the paper "Duopoly insurers’ incentives for data quality under a mandatory cyber data sharing regime"
+Simulation files for the paper "Duopoly insurers’ incentives for data quality under a mandatory cyber data sharing regime" published at Computers & Security: https://doi.org/10.1016/j.cose.2023.103292
 
 
 *example_cost_dist.py* plots the distribution of the cost given some information sigmals `P[C|Z_1]` and `P[C|Z_1, Z_2]` and also the bivariate distribution of the signals `Z_1` and `Z_2`
